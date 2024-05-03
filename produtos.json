@@ -1,1 +1,12 @@
-[{"id":"2","nome":"flor amarela"}]
+[
+    {"id": "1", "nome": "Rosa vermelha"},
+    {"id": "2", "nome": "Girassol"},
+    {"id": "3", "nome": "Orquidea branca"},
+    {"id": "4", "nome": "Lirio rosa"},
+    {"id": "5", "nome": "Tulipa vermelha"},
+    {"id": "6", "nome": "Cravo branco"},
+    {"id": "7", "nome": "Margarida amarela"},
+    {"id": "8", "nome": "Violeta roxa"},
+    {"id": "9", "nome": "Hortensia azul"},
+    {"id": "10", "nome": "Jasmim branco"}
+    ]
